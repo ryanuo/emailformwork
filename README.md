@@ -7,13 +7,9 @@
 
 ## 2.演示图例
 
-{% folding green, 自定义通知邮件模板 %}
 ![](https://cdn.jsdelivr.net/gh/Rr210/image@master/hexo/4/9dhaada.png)
-{% endfolding %}
 
-{% folding green, 自定义博主通知邮件主题 %}
 ![](https://cdn.jsdelivr.net/gh/Rr210/image@master/hexo/4/9daihdadjadw.png)
-{% endfolding %}
 
 ## 3.模板介绍
 
